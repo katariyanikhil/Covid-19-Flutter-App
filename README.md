@@ -2,7 +2,7 @@
 
 A Flutter app made for Covid-19 Stats for countries around the world and I also have States wise covid cases for India.
 ### Show some :heart: and star the repo to support the project
-[![GitHub stars](https://img.shields.io/github/stars/katariyanikhil/Covid-19-Flutter-App.svg?style=social&label=Star)](https://github.com/katariyanikhil/Covid-19-Flutter-App)     [![GitHub watchers](https://img.shields.io/github/watchers/katariyanikhil/Covid-19-Flutter-App.svg?style=social&label=Watch)](https://github.com/katariyanikhil/Covid-19-Flutter-App) [![GitHub followers](https://img.shields.io/github/followers/katariyanikhil.svg?style=social&label=Follow)](https://github.com/katariyanikhil/Covid-19-Flutter-App)  
+[![GitHub stars](https://img.shields.io/github/stars/katariyanikhil/Covid-19-Flutter-App.svg?style=social&label=Star)](https://github.com/katariyanikhil/Covid-19-Flutter-App) [![GitHub watchers](https://img.shields.io/github/watchers/katariyanikhil/Covid-19-Flutter-App.svg?style=social&label=Watch)](https://github.com/katariyanikhil/Covid-19-Flutter-App) [![GitHub followers](https://img.shields.io/github/followers/katariyanikhil.svg?style=social&label=Follow)](https://github.com/katariyanikhil/Covid-19-Flutter-App)  
 [![Twitter Follow](https://img.shields.io/twitter/follow/katariyanikhil_.svg?style=social)](https://twitter.com/katariyanikhil_)
 
 ### Support Me
