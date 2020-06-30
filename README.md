@@ -1,2 +1,16 @@
-# Covid-19-Flutter-App
-A Flutter App made for Covid-19 Stats for countries around the world and I also have States wise covid cases for India.
+# covid19
+
+A Flutter app made for Covid-19 Stats for countries around the world and I also have States wise covid cases for India.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
