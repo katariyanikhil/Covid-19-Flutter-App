@@ -1,4 +1,4 @@
-# covid19
+# COVID19
 
 A Flutter app made for Covid-19 Stats for countries around the world and I also have States wise covid cases for India.
 ### Show some :heart: and star the repo to support the project
@@ -16,7 +16,7 @@ A Flutter app made for Covid-19 Stats for countries around the world and I also 
 
 # License
 
-    Copyright 2018 Pawan Kumar
+    Copyright 2018 Nikhil Katariya
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
