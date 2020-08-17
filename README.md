@@ -16,7 +16,7 @@ A Flutter app made for Covid-19 Stats for countries around the world and I also 
 
 # License
 
-    Copyright 2018 Nikhil Katariya
+    Copyright (c) 2020 Nikhil Katariya
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
